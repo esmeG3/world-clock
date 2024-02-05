@@ -27,14 +27,14 @@ max-width: 600px;
 background-color: #ffff;
 padding: 10px;
 border-radius: 20px;
-box-shadow: #E3D8E8 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+box-shadow:#E0CCE5 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
 }
 
 .city {
     display: flex;
     margin: 20px 10px;
     justify-content: space-between;
-    border-bottom: 1px dashed #E3D8E8
+    border-bottom: 1px dashed #E0CCE5
 }
 .date {
     padding-bottom: 10px;
@@ -50,6 +50,10 @@ box-shadow: #E3D8E8 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
     vertical-align: middle;
     line-height: 28px;
   
+}
+a {
+    text-decoration: none;
+    color: #D8C4DF;
 }
 
 
