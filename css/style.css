@@ -37,6 +37,9 @@ box-shadow:#E0CCE5 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
     justify-content: space-between;
     border-bottom: 1px dashed #E0CCE5
 }
+.city:last-child{
+    border: none;
+}
 .date {
     padding-bottom: 10px;
     opacity: 0.6;
